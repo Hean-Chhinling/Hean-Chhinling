@@ -2,17 +2,15 @@
 
 ## 👋 Hello, World!
 
-I'm a second-year Bachelor of Computer Science student at the University of Debrecen, passionate about exploring the world of technology and software development.
+I am a Software Engineer at Cloudera Apache Hadoop YARN team. Based in Budapest, Hungary.
 
-- 🌱 I’m currently learning python, java and Astro framework.
-- 📚 I’m interested in web development, mobile application and game development.
-- 💡 I enjoy building game with python the most.
+- Active Contributor to Apache Hadoop YARN project: https://github.com/apache/hadoop/commits/trunk/?author=Hean-Chhinling
 - 🔗 Connect with me on [LinkedIn] https://www.linkedin.com/in/chhinling-hean-b86379217/
 - 📫 Reach me via email at heanchhinling@gmail.com
 -  [Portfolio Website] https://chhinling-hean.netlify.app
 
   
-  <img width="1680" alt="portfolio_website" src="https://github.com/Hean-Chhinling/Hean-Chhinling/assets/92643868/15286db5-5b3e-4694-82f0-237afca604d3">
+<img width="1680" alt="portfolio_website" src="https://github.com/Hean-Chhinling/Hean-Chhinling/assets/92643868/15286db5-5b3e-4694-82f0-237afca604d3">
 
 
 ## 🚀 Projects
